@@ -1,4 +1,4 @@
-h1 align="center">:file_cabinet: House Barber</h1>
+<h1 align="center">:file_cabinet: House Barber</h1>
 
 ## :memo: Descrição
 
